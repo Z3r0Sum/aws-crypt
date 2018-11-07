@@ -7,7 +7,7 @@ A simple utility CLI that leverages AWS KMS Keys to encrypt and decrypt file con
 ### Building
 
 ```bash
-go get github.com/Z3r0Sum/aws-crypt@version
+go get github.com/Z3r0Sum/aws-crypt
 cd $GOPATH/src/github.com/Z3r0Sum/aws-crypt
 go build
 ```
